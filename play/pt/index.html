@@ -11,15 +11,6 @@
 
     <script type="text/javascript" src="/scripts/cookies.js"></script>
     <script type="text/javascript" src="/scripts/0.js"></script>
-
-    <script type="text/javascript">
-      function loadCP() {
-          var game = document.querySelector("#game");
-          var worlds = new Object();
-          worlds[100] = { id: 100, name: "Blizzard", ip: "127.0.0.1", is_safe: false, port: 9875 };
-          game.startup("127.0.0.1", 6112, "http://media.localhost/", "pt", worlds);
-      }
-    </script>
   </head>
   <body>
     <div id="affiliateheaderforcp">
@@ -59,6 +50,7 @@
       height="98%">
       <param name="menu" value="false">
       <param name="allowScriptAccess" value="always">
+      <param name="flashvars" value="lang=pt">
       <a href="https://get.adobe.com/flashplayer/">
         <img id="noflash" src="/images/need-flash-player.gif" alt="Get Adobe Flash player" title="Get Adobe Flash player" />
       </a>

@@ -2,6 +2,10 @@
 	
 	boot: [
 		{
+			id: 'servers',
+			title: 'Communication'
+		},
+		{
 			id: 'airtower',
 			title: 'Communication'
 		},
