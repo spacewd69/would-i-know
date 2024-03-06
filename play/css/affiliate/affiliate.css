@@ -133,7 +133,7 @@ cursor: pointer;
 }
 
 #big_screen_button, #big_screen_button_fr, #big_screen_button_pt, #big_screen_button_es {
-	background-image:url(/images/button_big_screen.gif);
+	background-image:url(/would-i-know/play/images/button_big_screen.gif);
 	background-position:0pt 0px;
 	background-repeat:no-repeat;
 	display:block;
