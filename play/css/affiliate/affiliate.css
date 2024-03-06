@@ -23,7 +23,7 @@ html>body { /* be nice to Opera */
 strong { font-weight:bold;}
 
 .border { 
-	background:url(/images/game-border.gif) no-repeat;
+	background:url(/would-i-know/play/images/game-border.gif) no-repeat;
 	width:784px;
 	height:502px;
 	margin: 0px auto;
@@ -61,7 +61,7 @@ _______________________________________________________*/
 	height:32px !important;
 	width: 100%;
 	margin: 0 0 -5px;
-	background: url(/images/playNavBg.gif) 0 0 repeat-x;
+	background: url(/would-i-know/play/images/playNavBg.gif) 0 0 repeat-x;
 	z-index:4;
 	overflow: hidden;
 }
@@ -90,7 +90,7 @@ _______________________________________________________*/
 	height:64px !important;
 	margin: 0 auto;
 	position: relative;
-	background: url(/images/affiliates/1/flashnav-bg.gif) 100% 0 no-repeat;
+	background: url(/would-i-know/play/images/affiliates/1/flashnav-bg.gif) 100% 0 no-repeat;
 }
 
 #bigscreen{
@@ -102,7 +102,7 @@ _______________________________________________________*/
 }
 	
 #sm_screen_button, #sm_screen_button_fr, #sm_screen_button_pt, #sm_screen_button_es {
-	background-image:url(/images/button_small_screen.gif);
+	background-image:url(/would-i-know/play/images/button_small_screen.gif);
 	background-position:0pt 0px;
 	background-repeat:no-repeat;
 	display:block;
@@ -258,11 +258,11 @@ cursor: pointer;
 	}
 		
 .langselect {
-top: 1px; background-image: url(/images/language_bg.gif); background-repeat: no-repeat;background-position: 0px 2px; position: absolute; right: 55px; width: 249px; height: 23px;
+top: 1px; background-image: url(/would-i-know/play/images/language_bg.gif); background-repeat: no-repeat;background-position: 0px 2px; position: absolute; right: 55px; width: 249px; height: 23px;
 }
 
 .langselectFlash {
-top: 1px; background-image: url(/images/affiliates/1/select-lang-drop-down-flash.gif); background-repeat: no-repeat;background-position: 0px 0px; position: absolute; top: 5px; right: 5px; width: 249px; height: 30px;
+top: 1px; background-image: url(/would-i-know/play/images/affiliates/1/select-lang-drop-down-flash.gif); background-repeat: no-repeat;background-position: 0px 0px; position: absolute; top: 5px; right: 5px; width: 249px; height: 30px;
 }
 
 .langselectfield {
